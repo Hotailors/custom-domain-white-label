@@ -3,7 +3,7 @@
 ##### Before you start
 
 You have to be a [Hotailors](https://hotailors.com/) partner, if you are not, you can 
-go to [this page](https://hotailors.com/agents.html) and create an account. Make sure you have access to your own server
+go to [this page](https://hotailors.com/collaboration.html) and create an account. Make sure you have access to your own server
  with domain, on which you wish to serve white label. Be aware that
 our script demands that it has valid SSL Certificate.
 
